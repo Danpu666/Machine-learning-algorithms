@@ -1,6 +1,4 @@
 ﻿# Logistic Regression
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 #思路
 
@@ -14,8 +12,9 @@
 ###1、导入数据
 ###2、对数据图形展示
 ###3、代价函数
-$$ J(\theta)=-\frac{1}{m}\sum_{i=1}^m
-[y^{(i)}log(h_\theta(x^{(i)})+(1-y^{(i)})log(1-h_\theta(x^{(i)})]
+![](http://latex.codecogs.com/gif.latex?\\ J(\theta)=-\frac{1}{m}\sum_{i=1}^m
+[y^{(i)}log(h_\theta(x^{(i)})+(1-y^{(i)})log(1-h_\theta(x^{(i)})])
+$$
 $$
 
     h=sigmoid(X.dot(theta))
