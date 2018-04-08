@@ -6,5 +6,5 @@ python code about ten classical machine learning algorithms
 https://www.zybuluo.com/loveali/note/1101136
 2. 逻辑回归  
 https://www.zybuluo.com/loveali/note/1101653
-3.k近邻算法
+3. k近邻算法
 https://www.zybuluo.com/loveali/note/1103302
