@@ -10,3 +10,5 @@ https://www.zybuluo.com/loveali/note/1101653
 https://www.zybuluo.com/loveali/note/1103302
 ### 4. k-means算法
 https://www.zybuluo.com/loveali/note/1103812
+### 5. 决策树
+https://www.zybuluo.com/loveali/note/1106121
