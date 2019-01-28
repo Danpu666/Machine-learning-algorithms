@@ -12,3 +12,5 @@ https://www.zybuluo.com/loveali/note/1103302
 https://www.zybuluo.com/loveali/note/1103812
 ### 5. 决策树
 https://www.zybuluo.com/loveali/note/1106121
+### 6. 隐马尔可夫模型
+http://note.youdao.com/noteshare?id=d537d533641710ded17254c3213b823f&sub=1D69BC3486C04220BED0B33BB07E0293
